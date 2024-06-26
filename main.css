@@ -1,0 +1,2395 @@
+/* سفخه اصلی */
+.safehasli{position: relative;
+/* سفخه اصلی */
+
+position: relative;
+width: 1440px;
+height: 4628px;
+
+/* Colour/Secondary/White 100 (general) */
+background: #FFFFFF;}
+
+
+/* section `1 */
+.section1{position: absolute;
+    width: 1440px;
+    height: 787px;
+    left: 0px;
+    top: 0px;
+    
+    }
+
+
+/* Rectangle 1 */
+.Rectangle1 {position: absolute;
+    width: 1440px;
+    height: 75px;
+    left: 0px;
+    top: 0px;
+    
+    background: #00FFC0;}
+
+
+
+/* 0911 - *** - 8080 */
+.sh0911{position: absolute;
+    width: 207px;
+    height: 38px;
+    left: 170px;
+    top: 6px;
+
+
+/* Bold 26 */
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 26px;
+    line-height: 38px;
+    /* identical to box height, or 146% */
+    text-align: center;
+    
+    color: #FFFFFF;
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 900;
+font-size: 26px;
+line-height: 38px;
+/* identical to box height, or 146% */
+text-align: center;
+
+color: #FFFFFF;
+    }
+
+
+
+
+/* مازندران - قائمشهر - کفشگرکلا */
+.mazandaran{
+    position: absolute;
+    width: 347px;
+    height: 38px;
+    left: 991px;
+    top: 6px;
+    
+/* Bold 26 */
+font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 26px;
+    line-height: 38px;
+    /* identical to box height, or 146% */
+    text-align: center;
+    
+    color: #FFFFFF;
+    }
+
+
+
+/* Rectangle 3 */
+.Rectangle3{
+    position: absolute;
+    width: 1440px;
+    height: 700px;
+    left: 0px;
+    top: 87px;
+    
+    background: #FFFFFF;}
+
+
+/* Untitled-1 1 */
+.Untitled-1-1{position: absolute;
+    width: 1440px;
+    height: 712px;
+    left: 0px;
+    top: 75px;
+    
+    background: url(Untitled-1.png);}
+
+
+
+/* Ellipse 4 */
+.Ellipse-4 {position: absolute;
+    width: 62px;
+    height: 62px;
+    left: 556px;
+    top: 149px;
+    border-radius:50%;
+    background: #FFFFFF;
+    box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.35);}
+
+
+
+
+
+/* Vector Smart Object 1 */
+.Vector-Smart-Object-1 {position: absolute;
+    width: 41px;
+    height: 41px;
+    left: 8px;
+    top: 7px;
+    
+    background: url(Vector Smart Object.png);}
+
+
+
+/* Rectangle 4 */
+.Rectangle-4{position: absolute;
+    width: 1241px;
+    height: 86px;
+    left: 108px;
+    top: 50px;
+    
+    background: #FFFFFF;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;}
+
+
+
+/* Vector Smart a 1 */
+.Vector-Smart-a-1{position: absolute;
+    width: 40px;
+    height: 40px;
+    left: 125px;
+    top: 6px;
+    
+    background: url(newfolder/.Vector-Smart-a-1);}
+
+
+
+/* آکادمی آرسیا */
+.arsiaacademy{position: absolute;
+    width: 279px;
+    height: 40px;
+    left:27px;
+    top: -17px;
+    
+    font-family: 'Lalezar';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 55px;
+    line-height: 38px;
+    /* or 69% */
+    text-align: center;
+    
+    color: #000000;
+    }
+
+
+
+/* صفحه اصلی */
+.safehadlimeno{
+    position: absolute;
+    width: 140px;
+    height: 38px;
+    left: 1087px;
+    top:28px;
+    
+    /* Bold 26 */
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 26px;
+    line-height: 38px;
+    /* identical to box height, or 146% */
+    text-align: center;
+    
+    color: #131313;
+    }
+
+
+
+/* اساتید */
+.asatid{position: absolute;
+    width: 75px;
+    height: 38px;
+    left: 955px;
+    top:28px;
+    
+    /* Bold 26 */
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 26px;
+    line-height: 38px;
+    /* identical to box height, or 146% */
+    text-align: center;
+    
+    color: #131313;
+    }
+
+
+
+/* دوره ها */
+.dorehha{position: absolute;
+    width: 80px;
+    height: 38px;
+    left: 826px;
+    top:28px;
+    
+    /* Bold 26 */
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 26px;
+    line-height: 38px;
+    /* identical to box height, or 146% */
+    text-align: center;
+    
+    color: #131313;
+    }
+
+
+
+/* قوانین آکادمی */
+.ghavaninakademi{position: absolute;
+    width: 157px;
+    height: 38px;
+    left: 609px;
+    top:28px;
+    
+    /* Bold 26 */
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 26px;
+    line-height: 38px;
+    /* identical to box height, or 146% */
+    text-align: center;
+    
+    color: #131313;}
+
+
+
+
+/* Rectangle 5 */
+.Rectangle51{position: absolute;
+    width: 197px;
+    height: 59px;
+    left:1080px;
+    top:591px;
+    
+    background: #FDB913;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.2);
+    border-radius: 15px;
+    }
+
+
+/* ثبت نام */
+.santnam{position: absolute;
+    width: 79px;
+    height: 38px;
+    left: 46px;
+    top:14px;
+    
+    font-family: 'Yekan Bakh';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 38px;
+    /* identical to box height, or 136% */
+    text-align: center;
+    text-decoration: none;
+    color: #131313;}
+
+
+
+
+/* تماشای کلیپ */
+.tamashaclip{position: absolute;
+    width: 124px;
+    height: 38px;
+    left: 945px;
+    top: 604px;
+    
+    font-family: 'Yekan Bakh';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 38px;
+    /* identical to box height, or 146% */
+    text-align: center;
+    text-decoration: none;
+    color: #131313;
+    }
+
+
+
+/* Ellipse 5 */
+.Ellipse5{position: absolute;
+    width: 59px;
+    height: 59px;
+    left: 860px;
+    top: 593px;
+    border-radius: 50%;
+    background: #00FFC0;
+    }
+
+
+/* Polygon 1 */
+.Polygon1{position: absolute;
+    width: 24px;
+    height: 24px;
+    left:18px;
+    top: 23px;
+    
+    background:#00FFC0;
+    transform: rotate(90deg);}
+
+
+
+/* section2 */
+.section2{position: absolute;
+    width: 1440px;
+    height: 700px;
+    left: 0px;
+    top: 787px;
+    }
+
+
+
+/* Rectangle 6 */
+.Rectangle6{position: absolute;
+    width: 1440px;
+    height: 700px;
+    left: 0px;
+    top: 787px;
+    
+    background: #FFFFFF;
+    }
+
+
+/* بخشی از خدمات آکادمی */
+.bakhshyazkhadamatakademy{position: absolute;
+    width: 522px;
+    height: 38px;
+    left: 485px;
+    top:-2151px;
+    
+    font-family: 'Yekan Bakh';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 60px;
+    line-height: 38px;
+    /* identical to box height, or 63% */
+    text-align: center;
+    
+    color: #000000;
+    }
+
+
+
+/* Group 12 */
+.Group12 {position: absolute;
+    width: 1330px;
+    height: 513px;
+    left: 62px;
+    top: 917px;}
+    
+    
+    
+    /* . . . . . . . . . . . . . . . . . . . . . . . . */
+  .khat{ position: absolute;
+    width: 315px;
+    height: 217px;
+    left:71px;
+    top: -2019px;
+    
+    font-family: 'Yekan Bakh';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 60px;
+    line-height: 43px;
+    /* or 72% */
+    text-align: center;
+    letter-spacing: 12px;
+    
+    color: #FDB913;
+    }
+   
+    
+    
+    /* . . . . . . . . . . . . . . . . . . . . . . . . */
+    .khat2{    position: absolute;
+        width: 315px;
+        height: 217px;
+        left:1113px;
+        top: -1810px;
+        
+        font-family: 'Yekan Bakh';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 60px;
+        line-height: 43px;
+        /* or 72% */
+        text-align: center;
+        letter-spacing: 12px;
+        
+        color: #FDB913;}
+
+    
+
+
+
+/* Rectangle 7 */
+.Rectangle7{
+    box-sizing: border-box;
+    
+    position: absolute;
+    width: 275px;
+    height: 318px;
+    left: 240px;
+    top:-2015px;
+    
+    background: #FFFFFF;
+    border: 1px solid #000000;
+    border-radius: 10px;
+    }
+
+/* Rectangle 8 */
+.Rectangle8 {box-sizing: border-box;
+
+    position: absolute;
+    width: 275px;
+    height: 318px;
+    left: 609px;
+    top:-2015px;
+    
+    background: #FFFFFF;
+    border: 1px solid #000000;
+    box-shadow: 0px 8px 9px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;}
+
+
+
+/* Rectangle 9 */
+.Rectangle99{box-sizing: border-box;
+
+    position: absolute;
+    width: 275px;
+    height: 318px;
+    left:954px;
+    top:-2015px;
+    
+    background: #FFFFFF;
+    border: 1px solid #000000;
+    border-radius: 10px;
+    }
+
+
+/* برنامه ریزی روزانه */
+.barnamehrizirozaneh{position: absolute;
+    width: 182px;
+    height: 38px;
+    left: 54px;
+    top:116px;
+    text-decoration: none;
+    font-family: 'Yekan Bakh';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 38px;
+    /* identical to box height, or 127% */
+    text-align: center;
+    
+    color: #FDB913;}
+
+
+
+
+/* اساتید مجرب */
+.asatitmojarab{position: absolute;
+    width: 138px;
+    height: 38px;
+    left: 74px;
+    top:122px;
+    text-decoration: none;
+    font-family: 'Yekan Bakh';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 38px;
+    /* identical to box height, or 127% */
+    text-align: center;
+    
+    color: #FDB913;}
+
+
+
+
+/* لورم ایپسوم متنی پیفرض جهت پر کردن فضای خالی */
+.loremepson1{position: absolute;
+    width: 210px;
+    height: 88px;
+    left: 41px;
+    top:145px;
+    
+    font-family: 'Yekan Bakh';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 38px;
+    /* or 152% */
+    text-align: center;
+    letter-spacing: -1px;
+    
+    color: #131313;}
+
+
+
+
+/* لورم ایپسوم متنی پیفرض جهت پر کردن فضای خالی */
+.loremepson2{position: absolute;
+    width: 210px;
+    height: 88px;
+    left:28px;
+    top:145px;
+    
+    font-family: 'Yekan Bakh';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 38px;
+    /* or 152% */
+    text-align: center;
+    letter-spacing: -1px;
+    
+    color: #131313;}
+
+
+
+
+/* لورم ایپسوم متنی پیفرض جهت پر کردن فضای خالی */
+.loremepson3{position: absolute;
+    width: 210px;
+    height: 88px;
+    left: 35px;
+    top: 145px;
+ 
+    font-family: 'Yekan Bakh';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 38px;
+    /* or 152% */
+    text-align: center;
+    letter-spacing: -1px;
+    
+    color: #131313;
+    }
+
+
+
+/* یادگیری فعال */
+.yadgiryfal{position: absolute;
+    width: 149px;
+    height: 38px;
+    left: 69px;
+    top:122px;
+    text-decoration: none;
+    font-family: 'Yekan Bakh';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 38px;
+    /* identical to box height, or 127% */
+    text-align: center;
+    
+    color: #FDB913;}
+
+
+
+
+/* icons8-open-book-100 1 */
+.icons8-open-book-100-1 {position: absolute;
+    width: 80px;
+    height: 80px;
+    left: 98px;
+    top: 19px;
+    
+    background: url(icons8-open-book-100.png);}
+
+
+
+/* icons8-teacher-64 1 */
+.icons8-teacher-64-1{position: absolute;
+    width: 80px;
+    height: 80px;
+    left: 99px;
+    top: 19px;
+    
+    background: url(icons8-teacher-64.png);
+    }
+
+
+/* icons8-form-80 1 */
+.icons8-form-80-1{position: absolute;
+    width: 80px;
+    height: 80px;
+    left:100px;
+    top: 19px;
+    
+    background: url(icons8-form-80.png);}
+
+
+
+/* section3 */
+.section3{position: absolute;
+    width: 1440px;
+    height: 700px;
+    left: 0px;
+    top: 1487px;
+     background-color: rgb(217, 247, 237);
+    }
+
+
+
+
+/* Rectangle 6 */
+.Rectangle6{position: absolute;
+    width: 1440px;
+    height: 700px;
+    left: 0px;
+    top: 1487px;
+    
+    background: #EBFFFA;
+    }
+
+
+
+/* نفرات برتر دوره های مختلف آکادمی */
+.nafaratbarrtar{position: absolute;
+    width: 535px;
+    height: 158px;
+    left:687px;
+    top:45px;
+    
+    font-family: 'Yekan Bakh';
+    font-style: normal;
+    font-weight: 1000;
+    font-size: 60px;
+    line-height: 73px;
+    /* or 122% */
+    text-align: right;
+    
+    color: #FDB913;}
+
+
+
+
+/* Group 12 */
+.Group12 {position: absolute;
+    width: 357px;
+    height: 392px;
+    left: 942px;
+    top: 1726px;
+    
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));}
+
+
+
+/* Rectangle 9 */
+.Rectangle9{position: absolute;
+    width: 357px;
+    height: 392px;
+    left: 942px;
+    top: 1726px;
+    
+    background: #FFFFFF;
+    border-radius: 10px;}
+
+
+
+/* Group 13 */
+.Group13{position: absolute;
+    width: 357px;
+    height: 392px;
+    left: 134px;
+    top: 1726px;
+    
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));}
+
+
+
+/* Rectangle 9 */
+.Rectangle9{position: absolute;
+    width: 357px;
+    height: 392px;
+    left: 134px;
+    top: 1726px;
+    
+    background: #FFFFFF;
+    border-radius: 10px;}
+
+
+
+/* Group 14 */
+.Group14{position: absolute;
+    width: 357px;
+    height: 392px;
+    left: 538px;
+    top: 1726px;
+    
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));}
+
+
+
+/* Rectangle 9 */
+.Rectangle9{position: absolute;
+    width: 357px;
+    height: 392px;
+    left: 538px;
+    top: 1726px;
+    
+    background: #FFFFFF;
+    border-radius: 10px;}
+
+
+
+/* Group 15 */
+.Group15{position: absolute;
+    width: 197px;
+    height: 73px;
+    left: 134px;
+    top: 1619px;}
+
+
+
+
+/* Rectangle 5 */
+.Rectangle5{position: absolute;
+    width: 197px;
+    height: 59px;
+    left:5px;
+    top:-1467px;
+    
+    background: #FDB913;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.2);
+    border-radius: 15px;}
+
+
+
+/* مشهاده بیشتر */
+.moshahedeh{position: absolute;
+    width: 130px;
+    height: 73px;
+    left: 14px;
+    top:-2px;
+    text-decoration: none;
+    font-family: 'Yekan Bakh';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 73px;
+    /* identical to box height, or 292% */
+    text-align: right;
+    
+    color: #000000;}
+
+
+
+
+/* Rectangle 10 */
+.Rectangle10{position: absolute;
+    width: 307px;
+    height: 274px;
+    left:512px;
+    top:-3737px;
+    
+    background: url(medium-shot-smiley-man-posing_23-2148920610.jpg);
+    border-radius: 14px;}
+
+
+
+/* Rectangle 11 */
+.Rectangle11{position: absolute;
+    width: 307px;
+    height: 274px;
+    left:136px;
+    top: -3737px;
+    
+    background: url(portrait-beautiful-young-woman-standing-grey-wall_231208-10760.jpg);
+    border-radius: 14px;}
+
+
+
+/* Mask group */
+.Maskgroup {position: absolute;
+    width: 307px;
+    height: 274px;
+    left: 159px;
+    top: 1752px;}
+
+
+
+
+/* Rectangle 12 */
+.Rectangle12{position: absolute;
+    width: 307px;
+    height: 274px;
+    left: -258px;
+    top: -3737px;
+    
+    background: url(classmates-having-lunch-together-group-study_23-2149211130.jpg);
+    border-radius: 14px;
+  }
+    
+
+
+/* side-view-smiley-man-posing_23-2148563422 1 */
+.side-view-smiley-man-posing_23-2148563422-1{position: absolute;
+    width: 314px;
+    height: 439px;
+    left: 157px;
+    top: 1748px;
+    
+    background: url(New\ folder/side-view-smiley-man-posing_23-2148563422);}
+
+
+
+/* پوریا رضایی نفر اول دوره #C */
+.poriya{position: absolute;
+    width: 261px;
+    height: 73px;
+    left: 544px;
+    top:-3468px;
+    
+    font-family: 'Yekan Bakh';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 73px;
+    /* identical to box height, or 292% */
+    text-align: right;
+    
+    color: #000000;
+    }
+
+
+
+/* مریم داوودی نفر اول تولید محتوا */
+.maryam{position: absolute;
+    width: 304px;
+    height: 73px;
+    left: 125px;
+    top:-3468px;
+    
+    font-family: 'Yekan Bakh';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 73px;
+    /* identical to box height, or 292% */
+    text-align: right;
+    
+    color: #000000;}
+
+
+
+
+/* علی احمدی نفر اول زبان انگلیسی */
+.ali{position: absolute;
+    width: 298px;
+    height: 73px;
+    left: -261px;
+    top: -3468px;
+    
+    font-family: 'Yekan Bakh';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 73px;
+    /* identical to box height, or 292% */
+    text-align: right;
+    
+    color: #000000;}
+
+
+
+
+/* section4 */
+.section4{position: absolute;
+    width: 1440px;
+    height: 700px;
+    left: 0px;
+    top: 2187px;}
+
+
+
+
+/* Rectangle 6 */
+.Rectangle6b{position: absolute;
+    width: 1440px;
+    height: 700px;
+    left: 0px;
+    top: 2187px;
+    
+    background: #FFFFFF;}
+
+
+
+/* بهترین اساتید ما */
+.behtarinasatit{position: absolute;
+    width: 374px;
+    height: 73px;
+    left: 521px;
+    top: 2241px;
+    
+    font-family: 'Yekan Bakh';
+    font-style: normal;
+    font-weight: 1000;
+    font-size: 64px;
+    line-height: 73px;
+    /* identical to box height, or 114% */
+    text-align: right;
+    
+    color: #000000;}
+
+
+
+
+/* Group 12 */
+.Group12{position: absolute;
+    width: 377.51px;
+    height: 414.52px;
+    left: 925px;
+    top: 2357px;
+    box-shadow: 0 0 40px gainsboro;}
+
+
+
+
+/* Rectangle 9 */
+.Rectangle9{position: absolute;
+    width: 377.51px;
+    height: 414.52px;
+    left: 925px;
+    top: 2357px;
+    
+    background: #FFFFFF;
+ 
+    border-radius: 10px;}
+
+
+
+/* استاد رضایی */
+.ostadrezaee{position: absolute;
+    width: 157px;
+    height: 73px;
+    left: 963px;
+    top: 2388px;
+    
+    font-family: 'Yekan Bakh';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 35px;
+    line-height: 73px;
+    /* identical to box height, or 209% */
+    text-align: right;
+    
+    color: #000000;
+    }
+
+
+
+/* زبان انگلیسی */
+.zabanenglisi{position: absolute;
+    width: 157px;
+    height: 73px;
+    left: 967px;
+    top: 2450px;
+    
+    font-family: 'Yekan Bakh';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 73px;
+    /* identical to box height, or 228% */
+    text-align: right;
+    
+    color: #000000;}
+
+
+
+
+/* فارغ التحصیل از دانشگاه شریف دارای مدرک دکترای زبان مسلط به چهار زبان زنده دنیا. */
+.fareghtahsil{position: absolute;
+    width: 341px;
+    height: 171px;
+    left: 944px;
+    top: 2540px;
+    
+    font-family: 'Yekan Bakh';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 26px;
+    line-height: 57px;
+    /* or 190% */
+    text-align: right;
+    
+    color: #000000;}
+
+
+
+
+/* Group 13 */
+.Group133{position: absolute;
+    width:377.51px;
+    height: 414.52px;
+    left: 521px;
+    top: 2357px;
+    box-shadow: 0 0 40px gainsboro;}
+
+
+
+
+/* Rectangle 9 */
+.Rectangle9{position: absolute;
+    width: 377.51px;
+    height: 414.52px;
+    left: 521px;
+    top: 2357px;
+    
+    background: #FFFFFF;
+
+    border-radius: 10px;
+    }
+
+
+/* Ellipse 8 */
+.Ellipse8{position: absolute;
+    width: 135px;
+    height: 135px;
+    left: 1137px;
+    top: 2388px;
+    
+    background: url(handsome-male-employee-holding-notebooks-looking-confident-standing_1258-26589.jpg);}
+
+
+
+/* Group 14 */
+.Group14{position: absolute;
+    width:377.51px;
+    height: 414.52px;
+    left: 117px;
+    top: 2357px;
+box-shadow: 0 0 40px gainsboro;}
+
+
+
+
+/* Rectangle 9 */
+.Rectangle9{position: absolute;
+    width: 377.51px;
+    height: 414.52px;
+    left: 117px;
+    top: 2357px;
+    
+    background: #FFFFFF;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.35);
+    border-radius: 10px;}
+
+
+
+/* Mask group */
+.Maskgroup11{position: absolute;
+    width: 135px;
+    height: 135px;
+    left: 331px;
+    top: 2388px;
+    }
+
+
+
+
+
+
+
+
+
+/* Ellipse 6 */
+.Ellipse6{position: absolute;
+    width: 135px;
+    height: 135px;
+    left: 331px;
+    top: 2388px;
+    
+    background: #D9D9D9;}
+
+
+
+/* medium-shot-woman-studying-math_23-2150444951 1 */
+.medium-shot-woman-studying-math_23-2150444951-1 {position: absolute;
+    width:146.03px;
+    height:182.35px;
+    left:-924.51px;
+    top: -2381px;
+    border-radius: 50%;
+    background: url(medium-shot-woman-studying-math_23-2150444951.jpg);}
+
+
+
+/* Mask group */
+.Maskgroup{position: absolute;
+    width: 135px;
+    height: 135px;
+    left: 733px;
+    top: 2388px;
+    }
+
+
+
+/* Ellipse 7 */
+.Ellipse7{position: absolute;
+    width: 135px;
+    height: 135px;
+    left: 733px;
+    top: 2388px;
+    
+    background: url(portrait-happy-man-teacher-school-minimalism_1151338-43271.jpg);}
+
+
+
+/* portrait-happy-man-teacher-school-minimalism_1151338-43271 1 */
+.portrait-happy-man-teacher-school-minimalism_1151338-43271-1{position: absolute;
+    width:146.03px;
+    height:182.35px;
+    left: -508.51px;
+    top: -2381px;
+    border-radius: 50%;
+    background: url(portrait-happy-man-teacher-school-minimalism_1151338-43271.jpg);}
+
+
+
+/* استاد احمدی */
+.ostadahmadi{position: absolute;
+    width: 163px;
+    height: 73px;
+    left:43px;
+    top:7px;
+    
+    font-family: 'Yekan Bakh';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 35px;
+    line-height: 73px;
+    /* identical to box height, or 209% */
+    text-align: right;
+    
+    color: #000000;}
+
+
+
+
+/* برنامه نویسی */
+.barnamehnevisi{position: absolute;
+    width: 153px;
+    height: 73px;
+    left:47px;
+    top:76px;
+    
+    font-family: 'Yekan Bakh';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 73px;
+    /* identical to box height, or 228% */
+    text-align: right;
+    
+    color: #000000;}
+
+
+
+
+/* فارغ التحصیل از دانشگاه شریف دارای مدرک دکترای کامپیوتر مسلط به بیش از پنج زبان برنامه نویسی . */
+.fareghtahsildaneshgahsharif{position: absolute;
+    width: 341px;
+    height: 228px;
+    left:7px;
+    top: 151px;
+    
+    font-family: 'Yekan Bakh';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 26px;
+    line-height: 57px;
+    /* or 190% */
+    text-align: right;
+    
+    color: #000000;}
+
+
+
+
+/* استاد بابایی */
+.ostadbabaee{position: absolute;
+    width: 152px;
+    height: 73px;
+    left: -767px;
+    top: 7px;
+    
+    font-family: 'Yekan Bakh';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 35px;
+    line-height: 73px;
+    /* identical to box height, or 209% */
+    text-align: right;
+    
+    color: #000000;}
+
+
+
+
+/* تولید محتوا */
+.tolidmohtava{position: absolute;
+    width: 133px;
+    height: 73px;
+    left: -757px;
+    top: 76px;
+    
+    font-family: 'Yekan Bakh';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 73px;
+    /* identical to box height, or 228% */
+    text-align: right;
+    
+    color: #000000;}
+
+
+
+
+/* فارغ التحصیل از دانشگاه تهران دارای مدرک دکترای هنر و تولید محتوا ، سابقه همکاری با صدا و سیما. */
+.faregtahsilazdaneshgahtehran{position: absolute;
+    width: 331px;
+    height: 228px;
+    left:-796px;
+    top:159px;
+    
+    font-family: 'Yekan Bakh';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 26px;
+    line-height: 57px;
+    /* or 190% */
+    text-align: right;
+    
+    color: #000000;}
+
+
+
+
+/* section5 */
+.section5 {position: absolute;
+    width: 1440px;
+    height: 700px;
+    left: 0px;
+    top: 2187px;}
+
+
+
+
+/* Rectangle 6 */
+.Rectangle6{position: absolute;
+    width: 1440px;
+    height: 700px;
+    left: 0px;
+    top: 2187px;
+    
+    background: #FFFFFF;}
+
+
+
+/* بهترین اساتید ما */
+.behtarinasatidd{position: absolute;
+    width: 374px;
+    height: 73px;
+    left:543px;
+    top:-1523px;
+    
+    font-family: 'Yekan Bakh';
+    font-style: normal;
+    font-weight: 1000;
+    font-size: 64px;
+    line-height: 73px;
+    /* identical to box height, or 114% */
+    text-align: right;
+    
+    color: #000000;}
+
+
+
+
+/* Group 12 */
+.Group12{position: absolute;
+    width: 377.51px;
+    height: 414.52px;
+    left: 925px;
+    top:-1303px;}
+
+
+
+
+/* Rectangle 9 */
+.Rectangle9{position: absolute;
+    width: 377.51px;
+    height: 414.52px;
+    left: 925px;
+    top: 2357px;
+    
+    background: #FFFFFF;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.35);
+    border-radius: 10px;}
+
+
+
+/* استاد رضایی */
+.ostadrezaee{position: absolute;
+    width: 157px;
+    height: 73px;
+    left:838px;
+    top:7px;
+    
+    font-family: 'Yekan Bakh';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 35px;
+    line-height: 73px;
+    /* identical to box height, or 209% */
+    text-align: right;
+    
+    color: #000000;}
+
+
+
+
+/* زبان انگلیسی */
+.zabanenenglisi{position: absolute;
+    width: 157px;
+    height: 73px;
+    left: 843px;
+    top: 76px;
+    
+    font-family: 'Yekan Bakh';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 73px;
+    /* identical to box height, or 228% */
+    text-align: right;
+    color: #000000;
+    }
+
+
+
+
+
+/* فارغ التحصیل از دانشگاه شریف دارای مدرک دکترای زبان مسلط به چهار زبان زنده دنیا. */
+.faretahsilazshrifdoktorazaban{position: absolute;
+    width: 341px;
+    height: 171px;
+    left: 817px;
+    top:164px;
+    
+    font-family: 'Yekan Bakh';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 26px;
+    line-height: 57px;
+    /* or 190% */
+    text-align: right;
+    
+    color: #000000;}
+
+
+
+
+/* Group 13 */
+.Group133{position: absolute;
+    width: 751px;
+    height: 414.52px;
+    left: 521px;
+    top: 876px;}
+
+
+
+
+/* Rectangle 9 */
+.Rectangle9 {position: absolute;
+    width: 377.51px;
+    height: 414.52px;
+    left: 521px;
+    top: 2357px;
+    
+    background: #FFFFFF;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.35);
+    border-radius: 10px;}
+
+
+
+/* Ellipse 8 */
+.Ellipse8{position: absolute;
+    width:146.03px;
+    height:182.35px;
+    left: 270px;
+    top: -2381px;
+    border-radius: 50%;
+    background: url(handsome-male-employee-holding-notebooks-looking-confident-standing_1258-26589.jpg);}
+
+   
+  
+   
+
+/* Group 14 */
+.Group14{position: absolute;
+    width: 377.51px;
+    height: 414.52px;
+    left: 117px;
+    top:876px;}
+
+
+
+
+/* Rectangle 9 */
+.Rectangle9{position: absolute;
+    width: 377.51px;
+    height: 414.52px;
+    left: 117px;
+    top: 2357px;
+    
+    background: #FFFFFF;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.35);
+    border-radius: 10px;}
+
+
+
+/* Mask group */
+.Maskgroup{position: absolute;
+    width: 135px;
+    height: 135px;
+    left: 331px;
+    top: 2388px;}
+
+/* Mask group */
+.maskgroup22{position: absolute;
+    width: 135px;
+    height: 135px;
+    left: 733px;
+    top: 2388px;}
+
+
+
+
+
+/* Ellipse 6 */
+.Ellipse6{}
+position: absolute;
+width: 135px;
+height: 135px;
+left: 331px;
+top: 2388px;
+
+background: #D9D9D9;
+
+
+/* medium-shot-woman-studying-math_23-2150444951 1 */
+
+position: absolute;
+width: 150.03px;
+height: 225.35px;
+left: 323.49px;
+top: 2382.15px;
+
+background: url(medium-shot-woman-studying-math_23-2150444951.jpg);
+
+
+/* Mask group */
+
+position: absolute;
+width: 135px;
+height: 135px;
+left: 733px;
+top: 2388px;
+
+
+
+/* Ellipse 7 */
+
+position: absolute;
+width: 135px;
+height: 135px;
+left: 733px;
+top: 2388px;
+
+background: url(portrait-happy-man-teacher-school-minimalism_1151338-43271.jpg);
+
+
+/* portrait-happy-man-teacher-school-minimalism_1151338-43271 1 */
+
+position: absolute;
+width: 145.63px;
+height: 258.84px;
+left: 730.87px;
+top: 2371.52px;
+
+background: url(portrait-happy-man-teacher-school-minimalism_1151338-43271.jpg);
+
+
+/* استاد احمدی */
+
+position: absolute;
+width: 163px;
+height: 73px;
+left: 557px;
+top: 2388px;
+
+font-family: 'Yekan Bakh';
+font-style: normal;
+font-weight: 700;
+font-size: 35px;
+line-height: 73px;
+/* identical to box height, or 209% */
+text-align: right;
+
+color: #000000;
+
+
+
+/* برنامه نویسی */
+
+position: absolute;
+width: 153px;
+height: 73px;
+left: 565px;
+top: 2450px;
+
+font-family: 'Yekan Bakh';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 73px;
+/* identical to box height, or 228% */
+text-align: right;
+
+color: #000000;
+
+
+
+/* فارغ التحصیل از دانشگاه شریف دارای مدرک دکترای کامپیوتر مسلط به بیش از پنج زبان برنامه نویسی . */
+
+position: absolute;
+width: 341px;
+height: 228px;
+left: 538px;
+top: 2540px;
+
+font-family: 'Yekan Bakh';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 57px;
+/* or 190% */
+text-align: right;
+
+color: #000000;
+
+
+
+/* استاد بابایی */
+
+position: absolute;
+width: 152px;
+height: 73px;
+left: 160px;
+top: 2388px;
+
+font-family: 'Yekan Bakh';
+font-style: normal;
+font-weight: 700;
+font-size: 35px;
+line-height: 73px;
+/* identical to box height, or 209% */
+text-align: right;
+
+color: #000000;
+
+
+
+/* تولید محتوا */
+
+position: absolute;
+width: 133px;
+height: 73px;
+left: 181px;
+top: 2450px;
+
+font-family: 'Yekan Bakh';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 73px;
+/* identical to box height, or 228% */
+text-align: right;
+
+color: #000000;
+
+
+
+/* فارغ التحصیل از دانشگاه تهران دارای مدرک دکترای هنر و تولید محتوا ، سابقه همکاری با صدا و سیما. */
+
+position: absolute;
+width: 331px;
+height: 228px;
+left: 146px;
+top: 2540px;
+
+font-family: 'Yekan Bakh';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 57px;
+/* or 190% */
+text-align: right;
+
+color: #000000;
+
+
+
+/* section5 */
+
+position: absolute;
+width: 1440px;
+height: 700px;
+left: 0px;
+top: 2887px;
+
+
+
+/* Rectangle 6 */
+.Rectangle6{position: absolute;
+    width: 1440px;
+    height: 700px;
+    left: 0px;
+    top: 2887px;
+    
+    background: #FFFFFF;}
+
+
+
+/* Untitled-1ششش 1 */
+.Untitled-11-6{position: absolute;
+    width: 1440px;
+    height: 700px;
+    left: 0px;
+    top: -835px;
+    
+    background: url(Untitled-1ششش.png);}
+
+
+
+/* Group 16 */
+.Group16 {position: absolute;
+    width: 190px;
+    height: 190px;
+    left: 625px;
+    top: 3142px;
+    }
+
+
+
+/* Ellipse 9 */
+.Ellipse9{position: absolute;
+    width: 138px;
+    height: 138px;
+    left: 651px;
+    top: -558px;
+    border-radius: 50%;
+    background: #00FFC0;}
+
+
+
+/* Ellipse 10 */
+.Ellipse10{position: absolute;
+    width: 190px;
+    height: 190px;
+    left: 625px;
+    top: -582px;
+    border-radius: 50%;
+    background: rgba(0, 255, 192, 0.35);}
+
+
+
+/* Polygon 2 */
+.Polygon2{position: absolute;
+  
+    
+    width:-20px;
+    height: 3px;
+    left: 674px;
+    top: -528px;
+    border-left: 50px solid transparent;
+    border-right: 50px solid transparent;
+    border-bottom: 100px solid #ffffff;
+
+    transform: rotate(203deg);}
+  
+
+/* section6 */
+
+
+
+
+
+.section66{position: absolute;
+    width: 1440px;
+    height: 700px;
+    left: 0px;
+    top: 3587px;}
+
+
+
+
+/* Rectangle 6 */
+.Rectangle66{position: absolute;
+    width: 1440px;
+    height: 700px;
+    left: 0px;
+    top: 3587px;
+    
+    background: #FFFFFF;}
+
+
+
+/* Rectangle 14 */
+.Rectangle144{position: absolute;
+    width: 376px;
+    height: 483px;
+    left: 927px;
+    top:-3484px;
+    
+    background: #FFFFFF;
+    box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3);}
+
+
+
+/* Rectangle 15 */
+.Rectangle155{position: absolute;
+    width: 376px;
+    height: 483px;
+    left: 522px;
+    top: -3484px;
+    
+    background: #FFFFFF;
+    box-shadow: 0px 5px 10px 8px rgba(0, 0, 0, 0.2);
+    }
+
+
+/* Rectangle 16 */
+.Rectangle1662{position: absolute;
+    width: 376px;
+    height: 483px;
+    left: 117px;
+    top:-3484px;
+    
+    background: #FFFFFF;
+    box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3);}
+
+
+
+/* 25 شهریور 1402 */
+.sh25-1{position: absolute;
+    width: 119px;
+    height: 57px;
+    left: 359px;
+    top: 3990px;
+    
+    font-family: 'Yekan Bakh';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 19px;
+    line-height: 57px;
+    /* identical to box height, or 285% */
+    text-align: right;
+    
+    color: #000000;}
+
+
+
+
+/* کنفرانس دوره های ورکشاپ تابستانه برای عموم. */
+.konfarans11{position: absolute;
+    width: 338px;
+    height: 70px;
+    left: 140px;
+    top: 4037px;
+    
+    font-family: 'Yekan Bakh';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 35px;
+    /* or 140% */
+    text-align: right;
+    
+    color: #000000;}
+
+
+
+
+/* آخرین رویداد های ما */
+.akharinrodad{position: absolute;
+    width: 446px;
+    height: 57px;
+    left: 497px;
+    top:3531px;
+    
+    font-family: 'Yekan Bakh';
+    font-style: normal;
+    font-weight: 1000;
+    font-size: 60px;
+    line-height: 57px;
+    /* identical to box height, or 95% */
+    text-align: right;
+    
+    color: #000000;}
+
+
+
+
+/* 25 شهریور 1402 */
+.sh25-2{position: absolute;
+    width: 119px;
+    height: 57px;
+    left:1153px;
+    top: 3990px;
+    
+    font-family: 'Yekan Bakh';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 19px;
+    line-height: 57px;
+    /* identical to box height, or 285% */
+    text-align: right;
+    
+    color: #000000;
+    }
+
+
+
+/* 25 شهریور 1402 */
+.sh3{position: absolute;
+    width: 119px;
+    height: 57px;
+    left: 765px;
+    top:3983px;
+    
+    font-family: 'Yekan Bakh';
+    font-style: normal;
+    font-weight: 400;
+    font-size:18px;
+    line-height: 57px;
+    /* identical to box height, or 285% */
+    text-align: right;
+    
+    color: #000000;}
+
+
+
+
+/* کنفرانس دوره های ورکشاپ تابستانه برای عموم. */
+.kofarans2{position: absolute;
+    width: 338px;
+    height: 70px;
+    left: 950px;
+    top:4034px;
+    
+    font-family: 'Yekan Bakh';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 35px;
+    /* or 140% */
+    text-align: right;
+    
+    color: #000000;}
+
+
+
+
+/* کنفرانس دوره های ورکشاپ تابستانه برای عموم. */
+.konfarans3{position: absolute;
+    width: 338px;
+    height: 70px;
+    left: 546px;
+    top:4037px;
+    
+    font-family: 'Yekan Bakh';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 35px;
+    /* or 140% */
+    text-align: right;
+    
+    color: #000000;}
+
+
+
+
+/* Rectangle 17 */
+.rec17{position: absolute;
+    width: 376px;
+    height: 309px;
+    left:0px;
+    top:0px;
+    
+    background: url(people-taking-part-high-protocol-event_23-2150951411);}
+
+
+
+/* Rectangle 18 */
+.rec18{position: absolute;
+    width: 376px;
+    height: 309px;
+    left: 0px;
+    top:0px;
+    
+    background: url(people-taking-part-high-protocol-event_23-2150951411);}
+
+
+
+/* Rectangle 19 */
+.rec19{position: absolute;
+    width: 376px;
+    height: 309px;
+    left: 0px;
+    top:0px;
+    
+    background: url(people-taking-part-high-protocol-event_23-2150951411);}
+
+
+
+/* Group 17 */
+.Group17{position: absolute;
+    width: 155px;
+    height: 42px;
+    left: 949px;
+    top: 4132px;}
+
+
+
+
+/* Rectangle 20 */
+.Rectangle1000{box-sizing: border-box;
+
+    position: absolute;
+    width: 155px;
+    height: 42px;
+    left:968px;
+    top:525px;
+    
+    background: #FFFFFF;
+    border: 1px solid #000000;
+    border-radius: 8px;}
+
+
+
+/* بیشتر بخوانید.. */
+.bishtar1{position: absolute;
+    width: 111px;
+    height: 35px;
+    left:10px;
+    top:2px;
+    
+    font-family: 'Yekan Bakh';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 35px;
+    /* identical to box height, or 175% */
+    text-align: right;
+    text-decoration: none;
+    color: #000000;}
+
+
+
+
+/* Group 18 */
+.Group18{position: absolute;
+    width: 155px;
+    height: 42px;
+    left: 140px;
+    top: 4132px;}
+
+
+
+
+/* Rectangle 20 */
+.Rectangle2000{box-sizing: border-box;
+
+    position: absolute;
+    width: 155px;
+    height: 42px;
+    left: 164px;
+    top:520px;
+    
+    background: #FFFFFF;
+    border: 1px solid #000000;
+    border-radius: 8px;}
+
+
+
+/* بیشتر بخوانید.. */
+.bishtar2{position: absolute;
+    width: 111px;
+    height: 35px;
+    left:188px;
+    top:524px;
+    text-decoration: none;
+    font-family: 'Yekan Bakh';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 19px;
+    line-height: 35px;
+    /* identical to box height, or 175% */
+    text-align: right;
+    
+    color: #000000;
+    }
+
+
+
+/* Group 19 */
+.Group19{position: absolute;
+    width: 155px;
+    height: 42px;
+    left: 546px;
+    top: 4132px;}
+
+
+
+
+/* Rectangle 20 */
+.Rectangle3000{position: absolute;
+    width: 155px;
+    height: 42px;
+    left:572px;
+    top: 517px;
+    
+    background: #FDB913;
+    border-radius: 8px;}
+
+
+
+/* بیشتر بخوانید.. */
+.bishtar3{position: absolute;
+    width: 111px;
+    height: 35px;
+    left: 26px;
+    top:4px;
+    text-decoration: none;
+    font-family: 'Yekan Bakh';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 35px;
+    /* identical to box height, or 175% */
+    text-align: right;
+    
+    color: #FFFFFF;
+    }
+
+
+
+/* footer */
+.footer{position: absolute;
+    width: 1440px;
+    height: 341px;
+    left: 0px;
+    top: 4287px;
+    }
+
+
+
+/* Rectangle 13 */
+.Rectangle13{position: absolute;
+    width: 1440px;
+    height: 341px;
+    left: 0px;
+    top: 0px;
+    
+    background: rgba(0, 255, 192, 0.5);}
+
+
+
+/* آکادمی آرسیا */
+.akademiarsia{position: absolute;
+    width: 361px;
+    height: 35px;
+    left: 1025px;
+    top: 0px;
+    
+    font-family: 'Lalezar';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 70px;
+    line-height: 35px;
+    /* identical to box height, or 50% */
+    text-align: right;
+    
+    color: #131313;}
+
+
+
+
+/* دسترسی سریع */
+.dasrasisari{position: absolute;
+    width: 186px;
+    height: 35px;
+    left: 777px;
+    top: 0px;
+    
+    font-family: 'Yekan Bakh';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 35px;
+    /* identical to box height, or 109% */
+    text-align: right;
+    
+    color: #131313;}
+
+
+
+
+/* صفحه اصلی */
+.safehasli{position: absolute;
+    width: 186px;
+    height: 35px;
+    left: 777px;
+    top:79px;
+    
+    font-family: 'Yekan Bakh';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 27px;
+    line-height: 35px;
+    /* identical to box height, or 130% */
+    text-align: right;
+    text-decoration: none;
+    color: #131313;
+    background:rgb(171 237 220 / 50%);
+    }
+
+
+
+/* اساتید */
+.asatidd{position: absolute;
+    width: 65px;
+    height: 35px;
+    left: 898px;
+    top: 169px;
+    text-decoration: none;
+    font-family: 'Yekan Bakh';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 27px;
+    line-height: 35px;
+    /* identical to box height, or 130% */
+    text-align: right;
+    
+    color: #131313;}
+
+
+
+
+/* کلیپ */
+.clip{position: absolute;
+    width: 65px;
+    height: 35px;
+    left: 898px;
+    top: 215px;
+    text-decoration: none;
+    font-family: 'Yekan Bakh';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 27px;
+    line-height: 35px;
+    /* identical to box height, or 130% */
+    text-align: right;
+    
+    color: #131313;}
+
+
+
+
+/* نفرات برتر */
+.nafarat{position: absolute;
+    width: 99px;
+    height: 35px;
+    left: 864px;
+    top: 126px;
+    text-decoration: none;
+    font-family: 'Yekan Bakh';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 27px;
+    line-height: 35px;
+    /* identical to box height, or 130% */
+    text-align: right;
+    
+    color: #131313;}
+
+
+
+
+/* لورم ایپسوم متنی پیفرض جهت پر کردن فضای خالی لورم ایپسوم متنی پیفرضجهت پر کردن فضای خالی لورم ایپسوم متنی پیفرض. */
+.lorem1{position: absolute;
+    width: 423px;
+    height: 131px;
+    left: 963px;
+    top: 87px;
+    
+    font-family: 'Yekan Bakh';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 23px;
+    line-height: 38px;
+    /* or 165% */
+    text-align: right;
+    letter-spacing: -1px;
+    
+    color: #131313;}
+
+
+
+
+/* Ellipse 11 */
+.Ellipse11{position: absolute;
+    width: 44px;
+    height: 44px;
+    left: 1319px;
+    top:251px;
+    border-radius: 50%;
+    background: #FFFFFF;}
+
+
+
+/* icons8-twitterx-48 1 */
+.icons8-twitterx-481{position: absolute;
+    width: 30px;
+    height: 30px;
+    left:1323px;
+    top:256px;
+    
+    background: url(icons8-twitterx-48.png);}
+
+
+
+/* Ellipse 12 */
+.Ellipse12{position: absolute;
+    width: 44px;
+    height: 44px;
+    left: 1255px;
+    top: 251px;
+    border-radius: 50%;
+    background: #FFFFFF;}
+
+
+
+/* icons8-telegram-logo-96 1 */
+.icons8-telegram-logo-961{position: absolute;
+    width: 30px;
+    height: 30px;
+    left:1261px;
+    top: 255px;
+ 
+    background: url(icons8-telegram-logo-96.png);}
+
+
+
+/* Ellipse 13 */
+.Ellipse13{position: absolute;
+    width: 44px;
+    height: 44px;
+    left:1177px;
+    top:250px;
+    border-radius: 50%;
+    background: #FFFFFF;}
+
+
+
+/* icons8-facebook-logo-96 1 */
+.icons8-facebook-logo-961{position: absolute;
+    width: 30px;
+    height: 30px;
+    left:1184px;
+    top: 254px;
+    
+    background: url(icons8-facebook-logo-96.png);}
+
+
+
+/* Ellipse 14 */
+.Ellipse14{position: absolute;
+    width: 44px;
+    height: 44px;
+    left: 1100px;
+    top: 250px;
+    border-radius: 50%;
+    background: #FFFFFF;}
+
+
+
+/* Vector Smart Object 2 */
+.VectorSmartObject2{position: absolute;
+    width: 30px;
+    height: 30px;
+    left: 1107px;
+    top: 255px;
+    
+    background: url(Vector Smart Object.png);
+
+
+    
+    /* Colour/Secondary/White 100 (general) */
+     background: #FFFFFF;}
+  
+    
+
+
+
+
+    /* section `1 */
+  
+.section1{position: absolute;
+    width: 1440px;
+    height: 787px;
+    left: 0px;
+    top: 0px;}
+    /* Rectangle 1 */
+.Rectangle1{
+    position: absolute;
+    width: 1440px;
+    height: 75px;
+    left: 0px;
+    top: 0px;
+    
+    background: #00FFC0;}
+    /* Vector Smart a 1 */
+.VectorSmarta1 {position: absolute;
+    width: 40px;
+    height: 40px;
+    left: 125px;
+    top: 6px;
+    
+    background: url(Vector Smart a.png);
+    }
+
+
+
+
+
+
